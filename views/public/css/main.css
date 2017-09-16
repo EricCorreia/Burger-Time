@@ -1,0 +1,14 @@
+.eaten {
+  color: red;
+  font-size: 20pt;
+}
+.noteaten {
+  color: green;
+  font-size: 20pt;
+}
+
+.add {
+  color: blue;
+  font-size: 20pt;
+}
+
